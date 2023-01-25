@@ -23,7 +23,7 @@ Disponível em: https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/
 
 <b>Figura 4.</b> Boletim Epidemiológico: Óbitos confirmados de Dengue no Brasil, Semana Epidemiológica 51/2022. Boletim Epidemiológico v. 53., n. 48. Ministério da Saúde (2022).
 <br>
-<img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/incidencia_dengue.png" width="200"/><br>
+<img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/obitos_dengue.png" width="200"/><br>
 Disponível em: https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/obitos_dengue.png. Acesso em: 25/01/2023.
 
 <b>Figura 5.</b> Hospitalização. Flaticon (2022).
