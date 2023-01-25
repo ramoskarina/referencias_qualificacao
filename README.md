@@ -82,157 +82,157 @@ Disponível em: https://biominas.org.br/blog/conheca-o-crispr-tecnica-de-edicao-
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/Wolbachia%20(green)%20in%20the%20ovaries%20of%20Aedes%20aegypti%20mosquitoes%20-%20Inaki%20Iturbe-Ormaetxe_Eliminate%20Dengue.jpg" width="200"/><br>
 Disponível em: https://www.worldmosquitoprogram.org/sobre-o-metodo-wolbachia. Acesso em: 25/01/2023.
 
-<b>Figura 15.</b> Interferência da Wolbachia na reprodução dos mosquitos. Fundação Oswaldo Cruz (Fiocruz) (2012).
+<b>Figura 16.</b> Interferência da Wolbachia na reprodução dos mosquitos. Fundação Oswaldo Cruz (Fiocruz) (2012).
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/reproducao_eliminar%20a%20dengue_dentro.jpg" width="200"/><br>
 Disponível em: http://www.fiocruz.br/ioc/cgi/cgilua.exe/sys/start.htm?infoid=1591&sid=32. Acesso em: 25/01/2023.
 
-<b>Figura 16.</b> Técnica de esterilização para controle populacional de <i>Aedes aegypti</i>. Dilani, P. V. D.; Gunawardene, Y. I. N. S.; Dassanayake, R. S. (2022)
+<b>Figura 17.</b> Técnica de esterilização para controle populacional de <i>Aedes aegypti</i>. Dilani, P. V. D.; Gunawardene, Y. I. N. S.; Dassanayake, R. S. (2022)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/510167_1_En_3_Fig1_HTML.png" width="200"/><br>
 DOI: DOI: 10.1007/978-981-16-2964-8_3. Acesso em: 25/01/2023.
 
-<b>Figura 17.</b> Técnica de esterilização e uso de Wolbachia para controle populacional de <i>Aedes aegypti</i>. Lees, R. S. <i>et. all</i> (2015)
+<b>Figura 18.</b> Técnica de esterilização e uso de Wolbachia para controle populacional de <i>Aedes aegypti</i>. Lees, R. S. <i>et. all</i> (2015)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/Screenshot_2.png" width="200"/><br>
 DOI: https://doi.org/10.1016/j.cois.2015.05.011. Acesso em: 25/01/2023.
 
-<b>Figura 18.</b> Mosquitos transgênicos. Science (2016)
+<b>Figura 19.</b> Mosquitos transgênicos. Science (2016)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/61028n_4_resistancemovement.jpg" width="200"/><br>
 DOI: 10.1126/science.aal0253. Acesso em: 25/01/2023.
 
-<b>Figura 19.</b> Pressão seletiva. Abdulrheem, A. J. (2017)
+<b>Figura 20.</b> Pressão seletiva. Abdulrheem, A. J. (2017)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/pressao_seletiva.png" width="200"/><br>
 Disponível em: https://digitalcommons.wku.edu/theses/1931/. Acesso em: 25/01/2023.
 
-<b>Figura 20.</b> Vírus da Dengue. Pixabay (2022)
+<b>Figura 21.</b> Vírus da Dengue. Pixabay (2022)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/dengue-gad6c163be_1920.png" width="200"/><br>
 Disponível em: https://pixabay.com/pt/illustrations/dengue-v%C3%ADrus-estrutura-3d-biologia-1186407/. Acesso em: 25/01/2023.
 
-<b>Figura 21.</b> Pulverização. Flaticon (2022)
+<b>Figura 22.</b> Pulverização. Flaticon (2022)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/pulverizacao.png" width="200"/><br>
 Disponível em: https://www.flaticon.com/br/icone-gratis/pulverizacao_83229. Acesso em: 25/01/2023.
 
-<b>Figura 22.</b> Diagrama de rede. Júnior, M. C. O. (2012)
+<b>Figura 23.</b> Diagrama de rede. Júnior, M. C. O. (2012)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/diagrama_rede.png" width="200"/><br>
 Disponível em: https://www.teses.usp.br/teses/disponiveis/91/91131/tde-11072012-093911/publico/marcio_cordeiro_oliveira_junior.pdf. Acesso em: 25/01/2023.
 
-<b>Figura 23.</b> Mosquito. PNGEGG (2022)
+<b>Figura 24.</b> Mosquito. PNGEGG (2022)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/pngegg.png" width="200"/><br>
 Disponível em: https://www.pngegg.com/pt/png-sxvxm. Acesso em: 25/01/2023.
 
-<b>Figura 24.</b> DNA. Free Icons PNG (2022)
+<b>Figura 25.</b> DNA. Free Icons PNG (2022)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/dna-47645.png" width="200"/><br>
 Disponível em: https://www.freeiconspng.com/img/47645. Acesso em: 25/01/2023.
 
-<b>Figura 24.</b> Navio. PNGEGG (2022)
+<b>Figura 26.</b> Navio. PNGEGG (2022)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/pngegg%20(1).png" width="200"/><br>
 Disponível em: https://www.pngegg.com/en/png-xaixm. Acesso em: 25/01/2023.
 
-<b>Figura 25.</b> Clima. Escola Kids (2022)
+<b>Figura 27.</b> Clima. Escola Kids (2022)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/4e3d738c244f4c5f3b56f46260402cc4.jpg" width="200"/><br>
 Disponível em: https://escolakids.uol.com.br/geografia/elementos-do-clima.htm. Acesso em: 25/01/2023.
 
-<b>Figura 26.</b> Paraisópolis. Tuca Vieira (2004)
+<b>Figura 28.</b> Paraisópolis. Tuca Vieira (2004)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/_110008855_paraispolis.jpg" width="200"/><br>
 Disponível em: https://www.bbc.com/portuguese/brasil-50666148. Acesso em: 25/01/2023.
 
-<b>Figura 27.</b> <i>Aedes aegypti></i>. Prefeitura Municipal de Curitiba (2022)
+<b>Figura 29.</b> <i>Aedes aegypti></i>. Prefeitura Municipal de Curitiba (2022)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/00350304.jpg" width="200"/><br>
 Disponível em: https://www.curitiba.pr.gov.br/noticias/10-coisas-que-talvez-voce-nao-saiba-sobre-o-mosquito-da-dengue/64626. Acesso em: 25/01/2023.
 
-<b>Figura 28.</b> Pessoa na chuva. Folha Vitória (2019)
+<b>Figura 30.</b> Pessoa na chuva. Folha Vitória (2019)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/783ef7f0-f837-0137-4f6f-0a58a9feac2a--minified.jpg" width="200"/><br>
 Disponível em: https://www.folhavitoria.com.br/geral/noticia/12/2019/inpe-emite-alerta-de-chuva-intensa-para-23-municipios-do-espirito-santo. Acesso em: 25/01/2023.
 
-<b>Figura 29.</b> Palafitas de Santos-SP. Carta Capital (2021)
+<b>Figura 31.</b> Palafitas de Santos-SP. Carta Capital (2021)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/palafitas_santos.png" width="200"/><br>
 Disponível em: https://www.cartacapital.com.br/blogs/br-cidades/uma-nova-vida-nas-palafitas-de-santos/. Acesso em: 25/01/2023.
 
-<b>Figura 30.</b> Termômetro. Clima Tempo (2020)
+<b>Figura 32.</b> Termômetro. Clima Tempo (2020)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/e6126679be82bc8217a926af7fcd37dc.jpg" width="200"/><br>
 Disponível em: https://www.climatempo.com.br/noticia/2020/09/03/setembro-de-clima-seco-e-quente-na-maior-parte-do-brasil-5563. Acesso em: 25/01/2023.
 
-<b>Figura 31.</b> <i>Aedes aegypti</i>.  Paulo Whitaker/Reuters (2018)
+<b>Figura 33.</b> <i>Aedes aegypti</i>.  Paulo Whitaker/Reuters (2018)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/Screenshot_1.png" width="200"/><br>
 Disponível em: https://veja.abril.com.br/saude/aedes-aegypti-pode-contaminar-caes/. Acesso em: 25/01/2023.
 
-<b>Figura 32.</b> Localização de Santos-SP no Estado de São Paulo. Abreu, R. L. (2006)
+<b>Figura 34.</b> Localização de Santos-SP no Estado de São Paulo. Abreu, R. L. (2006)
 <br>
 <img src="XXXXXXX" width="200"/><br>
 Disponível em: https://pt.wikipedia.org/wiki/Santos#/media/Ficheiro:SaoPaulo_Municip_Santos.svg. Acesso em: 25/01/2023.
 
-<b>Figura 33.</b> Caracterização molecular e morfológica de populações de Aedes aegypti (Diptera:Culicidae) no estado de São Paulo.. Vidal, P. O. (2015)
+<b>Figura 35.</b> Caracterização molecular e morfológica de populações de Aedes aegypti (Diptera:Culicidae) no estado de São Paulo.. Vidal, P. O. (2015)
 <br>
 <img src="XXXXXXX" width="200"/><br>
 DOI: https://doi.org/10.11606/T.42.2016.tde-04032016-083314. Acesso em: 25/01/2023.
 
-<b>Figura 34.</b> Mosquitrap. Negreiros, M., <i>et. all</i> (2011)
+<b>Figura 36.</b> Mosquitrap. Negreiros, M., <i>et. all</i> (2011)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/mosquitrap.png" width="200"/><br>
 DOI: 10.5772/16857. Acesso em: 25/01/2023.
 
-<b>Figura 35.</b> Mosquitraps distribuídas por Santos - SP. Prefeitura de Santos - SP. (2022)
+<b>Figura 37.</b> Mosquitraps distribuídas por Santos - SP. Prefeitura de Santos - SP. (2022)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/mosquitraps_santos.png" width="200"/><br>
 Indisponível para acesso público. Acesso em: 25/01/2023.
 
-<b>Figura 36.</b> Resolução espacial de imagens de satélite. Adenilson Giovanini. (2022)
+<b>Figura 38.</b> Resolução espacial de imagens de satélite. Adenilson Giovanini. (2022)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/resolucao-espacial.png" width="200"/><br>
 Disponível em: https://adenilsongiovanini.com.br/blog/resolucao-espacial-espectral-radiometrica-e/. Acesso em: 25/01/2023.
 
-<b>Figura 37.</b> Resolução espectral de imagens de satélite. Brasil Escola. (2022)
+<b>Figura 39.</b> Resolução espectral de imagens de satélite. Brasil Escola. (2022)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/comprimentos%20de%20onda.png" width="200"/><br>
 Disponível em: https://brasilescola.uol.com.br/fisica/espectro-eletromagnetico.html. Acesso em: 25/01/2023.
 
-<b>Figura 38.</b> Empilhamento de bandas de satélite. Quora. (2020)
+<b>Figura 40.</b> Empilhamento de bandas de satélite. Quora. (2020)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/main-qimg-6e99e6d1efcd4d3de7e54d2647093212.jfif" width="200"/><br>
 Disponível em: https://www.quora.com/What-are-bands-in-images-and-why-are-they-colourless. Acesso em: 25/01/2023.
 
-<b>Figura 39.</b> NDVI. EOS Data Analytics. (2020)
+<b>Figura 41.</b> NDVI. EOS Data Analytics. (2020)
 <br>
 <img src="XXXXXXX" width="200"/><br>
 Disponível em: https://eos.com/pt/blog/ndvi-faq/. Acesso em: 25/01/2023.
 
-<b>Figura 40.</b> NDVI - Exemplo. EOS Data Analytics. (2020)
+<b>Figura 42.</b> NDVI - Exemplo. EOS Data Analytics. (2020)
 <br>
 <img src="XXXXXXX" width="200"/><br>
 Disponível em: https://eos.com/pt/blog/ndvi-faq/. Acesso em: 25/01/2023.
 
-<b>Figura 41.</b> Palafitas de Santos-SP. Carta Capital (2021)
+<b>Figura 43.</b> Palafitas de Santos-SP. Carta Capital (2021)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/palafitas_santos.png" width="200"/><br>
 Disponível em: https://www.cartacapital.com.br/blogs/br-cidades/uma-nova-vida-nas-palafitas-de-santos/. Acesso em: 25/01/2023.
 
-<b>Figura 42.</b> Gonzaga: Santos-SP. Prefeitura de Santos (2021)
+<b>Figura 44.</b> Gonzaga: Santos-SP. Prefeitura de Santos (2021)
 <br>
 <img src="XXXXXXX" width="200"/><br>
 Disponível em: https://www.santos.sp.gov.br/?q=noticia/gonzaga-bairro-de-santos-que-e-uma-cidade-inteira-completa-132-anos. Acesso em: 25/01/2023.
 
-<b>Figura 43.</b> População: Icon. União de Minas - MG (2021)
+<b>Figura 45.</b> População: Icon. União de Minas - MG (2021)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/noun_group_1782873.png" width="200"/><br>
 Disponível em: https://www.uniaodeminas.mg.leg.br/imagens/noun_group_1782873.png/view. Acesso em: 25/01/2023.
 
-<b>Figura 44.</b> Nuvem de chuva. Vexels (2021)
+<b>Figura 46.</b> Nuvem de chuva. Vexels (2021)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/e0ddbbd2af6ff3c1e17e00e8a95f7acd-cone-da-natureza-da-nuvem-de-chuva.png" width="200"/><br>
 Disponível em: https://br.vexels.com/png-svg/previsualizar/240750/cone-da-natureza-da-nuvem-de-chuva. Acesso em: 25/01/2023.
@@ -292,12 +292,12 @@ Disponível em: https://www.santos.sp.gov.br/?q=noticia/dia-do-centro-e-celebrad
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/praca_5_1.jpg" width="200"/><br>
 Disponível em: https://www.santos.sp.gov.br/?q=noticia/obras-tornam-praca-em-santos-mais-segura-e-atrativa-para-criancas-e-adultos. Acesso em: 25/01/2023.
 
-<b>Figura 57.</b> Praça Ida Trilli Gomes dos Santos (Ponta da Praia). Prefeitura de Santos - SP. (2022)
+<b>Figura 58.</b> Praça Ida Trilli Gomes dos Santos (Ponta da Praia). Prefeitura de Santos - SP. (2022)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/praca_1_cn.jpg" width="200"/><br>
 Disponível em: https://www.santos.sp.gov.br/?q=noticia/obras-tornam-praca-em-santos-mais-segura-e-atrativa-para-criancas-e-adultos. Acesso em: 25/01/2023.
 
-<b>Figura 58.</b> Correlação e covariância. Kaggle. (2019)
+<b>Figura 59.</b> Correlação e covariância. Kaggle. (2019)
 <br>
 <img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/inbox_3107144_96fded120cb0756459ae2deb3a7db06b_corre%20and%20cov.jfif" width="200"/><br>
 Disponível em: https://www.kaggle.com/getting-started/169940. Acesso em: 25/01/2023.
