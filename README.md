@@ -209,12 +209,12 @@ Disponível em: https://www.quora.com/What-are-bands-in-images-and-why-are-they-
 
 <b>Figura 41.</b> NDVI. EOS Data Analytics. (2020)
 <br>
-<img src="XXXXXXX" width="200"/><br>
+<img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/ndvi2.png" width="200"/><br>
 Disponível em: https://eos.com/pt/blog/ndvi-faq/. Acesso em: 25/01/2023.
 
 <b>Figura 42.</b> NDVI - Exemplo. EOS Data Analytics. (2020)
 <br>
-<img src="XXXXXXX" width="200"/><br>
+<img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/ndvi1.png" width="200"/><br>
 Disponível em: https://eos.com/pt/blog/ndvi-faq/. Acesso em: 25/01/2023.
 
 <b>Figura 43.</b> Palafitas de Santos-SP. Carta Capital (2021)
@@ -224,7 +224,7 @@ Disponível em: https://www.cartacapital.com.br/blogs/br-cidades/uma-nova-vida-n
 
 <b>Figura 44.</b> Gonzaga: Santos-SP. Prefeitura de Santos (2021)
 <br>
-<img src="XXXXXXX" width="200"/><br>
+<img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/gonzaga_pracaindependencia_chicoarrais_2.jpg" width="200"/><br>
 Disponível em: https://www.santos.sp.gov.br/?q=noticia/gonzaga-bairro-de-santos-que-e-uma-cidade-inteira-completa-132-anos. Acesso em: 25/01/2023.
 
 <b>Figura 45.</b> População: Icon. União de Minas - MG (2021)
@@ -239,22 +239,22 @@ Disponível em: https://br.vexels.com/png-svg/previsualizar/240750/cone-da-natur
 
 <b>Figura 47.</b> Termômetro. Dreamstime (2022)
 <br>
-<img src="XXXXXXX" width="200"/><br>
+<img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/termometro_icon.png" width="200"/><br>
 Disponível em: https://pt.dreamstime.com/%C3%ADcone-de-vetor-plano-temperatura-conceito-s%C3%ADmbolo-calha%C3%A7%C3%A3o-isolado-clima-quente-e-frio-em-estilo-tend%C3%AAncia-para-o-site-image165674584. Acesso em: 25/01/2023.
 
 <b>Figura 48.</b> Onda de calor. Veja (2019)
 <br>
-<img src="XXXXXXX" width="200"/><br>
+<img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/alx_calor_sp2_original2.png" width="200"/><br>
 Disponível em: https://veja.abril.com.br/brasil/onda-de-calor-atinge-sp-em-pleno-inverno-e-temperatura-pode-chegar-a-38oc/. Acesso em: 25/01/2023.
 
 <b>Figura 49.</b> Reprodução do vírus no mosquito. Chouin-Carneiro, T., Santos, F. B. (2017)
 <br>
-<img src="XXXXXXX" width="200"/><br>
+<img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/F2.png" width="200"/><br>
 DOI: 10.5772/66946. Acesso em: 25/01/2023.
 
 <b>Figura 50.</b> Reação em cadeia. iStock. (2020)
 <br>
-<img src="XXXXXXX" width="200"/><br>
+<img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/reacao_cadeia.png" width="200"/><br>
 Disponível em: https://www.istockphoto.com/br/vetor/rea%C3%A7%C3%A3o-em-cadeia-crescimento-exponencial-modelo-de-linha-de-c%C3%ADrculo-gm1218387512-356001827. Acesso em: 25/01/2023.
 
 <b>Figura 51.</b> Vaso de planta como criadouro de mosquitos. Governo do Estado do Espírito Santo. (2022)
@@ -269,12 +269,12 @@ Disponível em: https://g1.globo.com/sp/santos-regiao/noticia/2019/02/05/apos-en
 
 <b>Figura 53.</b> Chuva. Pinterest. (2014)
 <br>
-<img src="XXXXXXX" width="200"/><br>
+<img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/1619cff15261929efd0e85b7bbb2d2e1.gif" width="200"/><br>
 Disponível em: https://br.pinterest.com/pin/391813236304621181/. Acesso em: 25/01/2023.
 
 <b>Figura 54.</b> Distribuição de folhetos educativos em Santos - SP. Prefeitura de Santos - SP. (2021)
 <br>
-<img src="XXXXXXX" width="200"/><br>
+<img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/distriasd54.png" width="200"/><br>
 Disponível em: https://www.santos.sp.gov.br/?q=hotsite/dengue-zika-e-chikungunya. Acesso em: 25/01/2023.
 
 <b>Figura 55.</b> Tenda do setor educativo da saúde de Santos - SP. Prefeitura de Santos - SP. (2022)
@@ -284,7 +284,7 @@ Disponível em: https://www.santos.sp.gov.br/?q=noticia/dia-do-centro-e-celebrad
 
 <b>Figura 56.</b> Logo de Santos Contra o Mosquito. Prefeitura de Santos - SP. (2022)
 <br>
-<img src="XXXXXXX" width="200"/><br>
+<img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/logo_dengue_0.png" width="200"/><br>
 Disponível em: https://www.santos.sp.gov.br/?q=noticia/dia-do-centro-e-celebrado-com-festa-e-servicos-na-praca-maua. Acesso em: 25/01/2023.
 
 <b>Figura 57.</b> Praça Ida Trilli Gomes dos Santos (Ponta da Praia). Prefeitura de Santos - SP. (2022)
