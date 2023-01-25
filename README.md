@@ -2,4 +2,7 @@
 
 As imagens tudo
 
-![Screenshot_1](https://user-images.githubusercontent.com/61384905/214646963-d83f922b-6574-446a-9d18-52d81f2b8e0e.png)
+
+<img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/istockphoto-871175722-612x612.jpg" alt="drawing" width="200"/>
+MICROCEFALIA TANANANANNANANA
+HTTP://SDSADHUIASDAMEUPAUDEOCULOS.COM.BR
