@@ -1,9 +1,9 @@
 # referencias_qualificacao
 
 ___________________________________
-
+<p align="justify">
 Este repositório contém as referências detalhadas das imagens utilizadas na apresentação de qualificação de Mestrado de Karina Ramos dos Santos, sob o título "modelo multivariado preditivo de infestação e variabilidade morfo-genética de <i>Aedes aegypti</i>", apresentado em 03/02/2023 no Programa de Medicina Tropical da Faculdade de Medicina da Universidade de São Paulo - FMUSP.
-
+</p>
 ___________________________________
 
 <b>Figura 1.</b> <i>Aedes aegypti</i>. Muhammad Mahdi Karim (2009).
