@@ -174,12 +174,12 @@ Disponível em: https://veja.abril.com.br/saude/aedes-aegypti-pode-contaminar-ca
 
 <b>Figura 34.</b> Localização de Santos-SP no Estado de São Paulo. Abreu, R. L. (2006)
 <br>
-<img src="XXXXXXX" width="200"/><br>
+<img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/1280px-SaoPaulo_Municip_Santos.svg.png" width="200"/><br>
 Disponível em: https://pt.wikipedia.org/wiki/Santos#/media/Ficheiro:SaoPaulo_Municip_Santos.svg. Acesso em: 25/01/2023.
 
 <b>Figura 35.</b> Caracterização molecular e morfológica de populações de Aedes aegypti (Diptera:Culicidae) no estado de São Paulo.. Vidal, P. O. (2015)
 <br>
-<img src="XXXXXXX" width="200"/><br>
+<img src="https://github.com/ramoskarina/referencias_qualificacao/blob/main/imagens/aedes_dis.png" width="200"/><br>
 DOI: https://doi.org/10.11606/T.42.2016.tde-04032016-083314. Acesso em: 25/01/2023.
 
 <b>Figura 36.</b> Mosquitrap. Negreiros, M., <i>et. all</i> (2011)
